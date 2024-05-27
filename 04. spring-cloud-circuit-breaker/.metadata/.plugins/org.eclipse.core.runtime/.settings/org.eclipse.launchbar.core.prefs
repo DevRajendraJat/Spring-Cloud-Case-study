@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=aarch64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:DiscoveryServerApplication,org.eclipse.launchbar.core.descriptorType.default\:ApiGatewayApplication,org.eclipse.launchbar.core.descriptorType.default\:Service01Application,org.eclipse.launchbar.core.descriptorType.default\:Service02Application,org.eclipse.launchbar.core.descriptorType.default\:ConfigServerApplication
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ApiGatewayApplication/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ApiGatewayApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:DiscoveryServerApplication/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:DiscoveryServerApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
